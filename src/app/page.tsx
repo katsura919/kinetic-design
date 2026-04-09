@@ -237,8 +237,7 @@ export default function Home() {
                 </h2>
                 <p className="mt-6 max-w-2xl text-lg font-medium leading-tight text-muted-foreground md:text-xl lg:text-2xl">
                   Abie is a software engineer turned creator who builds UGC that
-                  performs and websites that convert. Currently based in Lisbon,
-                  traveling worldwide.
+                  performs and websites that convert. Currently based in Spain.
                 </p>
               </div>
               <div className="grid gap-6 md:grid-cols-2">
